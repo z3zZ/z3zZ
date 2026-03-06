@@ -1,1 +1,1 @@
-![alt text](/readmellinux.jpg)
+![alt text](/images/readmellinux.jpg)
