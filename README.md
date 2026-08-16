@@ -30,6 +30,6 @@ A fair amount of my day-to-day work now runs through Claude and other AI-assiste
 
 - Portfolio: [joshan.dev](https://joshan.dev)
 - Instagram: [@z3zZ](https://github.com/z3zZ)
-
+- Discord: [1z](https://discord.com/users/694851486580080640)
 
 ![alt text](/images/readmellinux.jpg)
