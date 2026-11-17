@@ -29,7 +29,7 @@ A fair amount of my day-to-day work now runs through my job as well and projects
 ## Elsewhere
 
 - Portfolio: [joshan.dev](https://joshan.dev)
-- Instagram: [@z3zZ](https://github.com/z3zZ)
+- Instagram: [Joshan](https://www.instagram.com/johs._.r)
 - Discord: [1z](https://discord.com/users/694851486580080640)
 - Alt account: [ALT](https://github.com/z3zz-alt)
 
