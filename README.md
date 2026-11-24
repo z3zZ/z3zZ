@@ -1,7 +1,8 @@
 # Hi, I'm Joshan 👋
 
 Junior Software Engineer at **Thirtyone:eight**, built on a T-Level foundation rather than a traditional degree route. Starting a BSc in Computer Science with Artificial Intelligence through the Open University in October 2026, running alongside the job rather than instead of it.
-
+### Please refer to my portfolio to actually see about me
+- Portfolio: [joshan.dev](https://joshan.dev)
 ---
 
 ## Background
@@ -24,7 +25,7 @@ Two years on, that route has led to a junior engineering role and a degree I'm c
 
 # A note on the contribution graph
 
-A fair amount of my day-to-day work now runs through my job as well and projects are heavily ran through Claude and other AI-assisted tooling, so a lot of what actually ships doesn't necessarily land as a neat wall of green squares the way it started before I landed Amazon. The graph undercounts the volume of things built more than it reflects the effort behind them. The pinned repos are a better signal than the heatmap.
+A fair amount of my day-to-day work now runs through my job as well and projects are heavily ran through Claude and other AI-assisted tooling, so a lot of what actually ships doesn't necessarily land as a neat wall of green squares the way it started before I landed Amazon. The graph undercounts the volume of things built more than it reflects the effort behind them. My portfolio website is a better signal than the heatmap.
 
 ## Elsewhere
 
